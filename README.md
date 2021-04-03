@@ -1,4 +1,4 @@
-# covid19
+# Covid19
 Information regarding the pandemic
 Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
 
